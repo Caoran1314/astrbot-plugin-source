@@ -1,0 +1,57 @@
+{
+  "$meta": {
+    "schema_version": 1,
+    "name": "大肥鱼 AstrBot 插件集",
+    "homepage": "https://github.com/Caoran1314",
+    "description": "拟人化 / 本地记忆 / 拟人度评测",
+    "repository": "https://github.com/Caoran1314"
+  },
+  "Caoran1314/astrbot_plugin_dafeiyu_human": {
+    "author": "Caoran1314",
+    "name": "astrbot_plugin_dafeiyu_human",
+    "display_name": "大肥鱼拟人管线",
+    "version": "v0.1.0",
+    "repo": "https://github.com/Caoran1314/astrbot_plugin_dafeiyu_human",
+    "desc": "让大肥鱼像人一样发消息：会延迟、会分条、会打错字、不说 AI 腔、不用冒号破折号和句号",
+    "category": "AI 增强",
+    "support_platforms": [
+      "aiocqhttp",
+      "webchat"
+    ],
+    "astrbot_version": ">=4.24.0",
+    "download_url": "https://github.com/Caoran1314/astrbot_plugin_dafeiyu_human/releases/download/v0.1.0/astrbot_plugin_dafeiyu_human-v0.1.0.zip",
+    "logo": ""
+  },
+  "Caoran1314/astrbot_plugin_dafeiyu_brain": {
+    "author": "Caoran1314",
+    "name": "astrbot_plugin_dafeiyu_brain",
+    "display_name": "大肥鱼记忆大脑",
+    "version": "v0.1.0",
+    "repo": "https://github.com/Caoran1314/astrbot_plugin_dafeiyu_brain",
+    "desc": "本地 SQLite 长期记忆 + 核心锚点 + 条件人格注入；给大肥鱼两个工具：主动记、主动想",
+    "category": "AI 增强",
+    "support_platforms": [
+      "aiocqhttp",
+      "webchat"
+    ],
+    "astrbot_version": ">=4.24.0",
+    "download_url": "https://github.com/Caoran1314/astrbot_plugin_dafeiyu_brain/releases/download/v0.1.0/astrbot_plugin_dafeiyu_brain-v0.1.0.zip",
+    "logo": ""
+  },
+  "Caoran1314/astrbot_plugin_dafeiyu_eval": {
+    "author": "Caoran1314",
+    "name": "astrbot_plugin_dafeiyu_eval",
+    "display_name": "大肥鱼拟人度评测",
+    "version": "v0.1.0",
+    "repo": "https://github.com/Caoran1314/astrbot_plugin_dafeiyu_eval",
+    "desc": "只观测不改行为：统计字数/分条/问句/AI腔/标点/延迟，给出不达标项；可导出盲测素材",
+    "category": "AI 增强",
+    "support_platforms": [
+      "aiocqhttp",
+      "webchat"
+    ],
+    "astrbot_version": ">=4.24.0",
+    "download_url": "https://github.com/Caoran1314/astrbot_plugin_dafeiyu_eval/releases/download/v0.1.0/astrbot_plugin_dafeiyu_eval-v0.1.0.zip",
+    "logo": ""
+  }
+}
