@@ -19,7 +19,7 @@
       "webchat"
     ],
     "astrbot_version": ">=4.24.0",
-    "download_url": "https://github.com/Caoran1314/astrbot_plugin_dafeiyu_human/releases/download/v0.1.0/astrbot_plugin_dafeiyu_human-v0.1.0.zip",
+    "download_url": "https://cdn.jsdelivr.net/gh/Caoran1314/astrbot-plugin-source@main/zips/astrbot_plugin_dafeiyu_human-v0.1.0.zip",
     "logo": ""
   },
   "Caoran1314/astrbot_plugin_dafeiyu_brain": {
@@ -35,7 +35,7 @@
       "webchat"
     ],
     "astrbot_version": ">=4.24.0",
-    "download_url": "https://github.com/Caoran1314/astrbot_plugin_dafeiyu_brain/releases/download/v0.1.0/astrbot_plugin_dafeiyu_brain-v0.1.0.zip",
+    "download_url": "https://cdn.jsdelivr.net/gh/Caoran1314/astrbot-plugin-source@main/zips/astrbot_plugin_dafeiyu_brain-v0.1.0.zip",
     "logo": ""
   },
   "Caoran1314/astrbot_plugin_dafeiyu_eval": {
@@ -51,7 +51,7 @@
       "webchat"
     ],
     "astrbot_version": ">=4.24.0",
-    "download_url": "https://github.com/Caoran1314/astrbot_plugin_dafeiyu_eval/releases/download/v0.1.0/astrbot_plugin_dafeiyu_eval-v0.1.0.zip",
+    "download_url": "https://cdn.jsdelivr.net/gh/Caoran1314/astrbot-plugin-source@main/zips/astrbot_plugin_dafeiyu_eval-v0.1.0.zip",
     "logo": ""
   }
 }
